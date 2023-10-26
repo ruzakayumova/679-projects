@@ -1,19 +1,22 @@
 <template>
+  <new-component />
   <the-banner />
   <cards-component />
   <my-component />
 </template>
 
 <script>
+import NewComponent from './components/NewComponent.vue';
 import TheBanner from "./components/TheBanner.vue";
 import CardsComponent from "./components/CardsComponent.vue";
 
 export default {
-  components: { CardsComponent },
   name: "App",
   components: {
     TheBanner,
-  },
+    NewComponent,
+    CardsComponent
+  }
 };
 </script>
 
