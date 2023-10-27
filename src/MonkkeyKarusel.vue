@@ -20,22 +20,22 @@
     <section>
       <div class="cards">
         <div class="card1">
-          <img src="../assets/jasmine.png" alt="">
+          <img src="#" alt="">
           <p>Jasmine Flowers</p>
           <p class="card_under_p">$258</p>
         </div>
         <div class="card1">
-          <img src="../assets/lili.jpeg" alt="">
+          <img src="#" alt="">
           <p>Lily Flowers</p>
           <p class="card_under_p">$310</p>
         </div>
         <div class="card1">
-          <img src="../assets/rose.jpg" alt="">
+          <img src="#" alt="">
           <p>Rose Flowers</p>
           <p class="card_under_p">$114</p>
         </div>
         <div class="card1">
-          <img src="../assets/amily.jpeg" alt="">
+          <img src="#" alt="">
           <p>Amaris Flowers</p>
           <p class="card_under_p">$410</p>
         </div>
