@@ -1,7 +1,6 @@
 <template>
-  
   <body>
-   
+
     <div class="for_lowers_div">
         <h1 class="text_h1_flowers">More Value from <span class="span_text" ><a href="">this Flowers</a> </span></h1>
     </div>
@@ -22,45 +21,29 @@
     <section>
       <div class="cards">
         <div class="card1">
-          <img src="#" alt="">
+          <img src="../assets/jasmine.png" alt="">
           <p>Jasmine Flowers</p>
           <p class="card_under_p">$258</p>
         </div>
         <div class="card1">
-          <img src="#" alt="">
+          <img src="../assets/lili.jpeg" alt="">
           <p>Lily Flowers</p>
           <p class="card_under_p">$310</p>
         </div>
-        <div class="card1">
-          <img src="#" alt="">
+        <div class="card1"> 
+         <img src="../assets/rose.jpg" alt="">
           <p>Rose Flowers</p>
-          <p class="#">$114</p>
+          <p class="card_under_p">$114</p>
         </div>
         <div class="card1">
-          <img src="#" alt="">
+          <img src="../assets/amily.jpeg" alt="">
           <p>Amaris Flowers</p>
           <p class="card_under_p">$410</p>
         </div>
         
-        
-        
-      </div>
-      <div class="flowers_name">
-        
-        
-        
-        
-      </div>
-      <div class="flowers_cost">
-        
-        
-        
-        
+         
       </div>
     </section>
-
-    
-
   </body>
 
 </template>
