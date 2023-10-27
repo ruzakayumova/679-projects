@@ -2,7 +2,6 @@
   <new-component />
   <the-banner />
   <cards-component />
-  <my-component />
 </template>
 
 <script>
